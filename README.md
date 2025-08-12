@@ -1,3 +1,3 @@
 # cp-test
 
-Author- Chnadrapal parekh (Devops)
+Author- Chandrapal parekh (Devops)
